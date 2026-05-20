@@ -43,4 +43,6 @@ class pro5report{
 			System.out.println("正の整数だけを入力してください:");
 		}
 		}
+
+		System.out.println("test 変更");
 	}
